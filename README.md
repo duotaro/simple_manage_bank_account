@@ -3,6 +3,21 @@ i love simple app.
 
 # シンプル貯金管理
 
+# ブランチ
+- main
+    リリースバージョン
+- develop
+    検証環境用
+- feature/first_version
+    最低機能での実装
+- feature/second_version
+    first_version に認証機能とバックアップ機能を追加
+- feature/third_version
+    second_versionに課金機能を追加
+    その他文章を作成(説明書・規約など)
+    ここで完成のはず
+
+    
 # 要件定義
 
 ### 機能
